@@ -1,39 +1,39 @@
-Hi! 👋 My name is Den, 29 years old, live in israel, I'm the co-founder of Phoenix Paw — a multiplatform ecosystem combining NFTs, a Telegram WebApp, game mechanics, tokenomics, and charity.
+# Den Filatov (@stingrif)
 
-🧠 Specialization:
+Middle Python Backend Engineer (Startup / Product) based in Israel.  
+I build backend services, APIs, and automation workflows — focused on reliability, clean architecture, and shipping.
 
-Full-stack development
 
-UI/UX design
+## What I do
+- Backend development: REST APIs, service logic, integrations
+- Data layer: PostgreSQL / Supabase, schema design, migrations
+- Caching & async patterns: Redis, background jobs
+- Infrastructure: Docker, Linux (Ubuntu / Arch), basic AWS server deployments
+- Automation: n8n workflows for ops and product pipelines
+- AI/LLM integration (practical): Claude / Cursor-based workflows for dev & automation
 
-SMM & creative strategies
 
-Web3 and crypto integrations (TON)
+## Current focus
+- Kafka fundamentals (producer/consumer, consumer groups, manual offset commits)
+- Testing discipline (pytest, unit + integration tests)
+- Cleaner system design & documentation
 
-PostgreSQL + Supabase + microservices (Kafka, Docker, Bolt.new, Claude, Cursor, AppAlchemy...)
 
-AI prompting and automation
+## Tech stack
+**Python** • FastAPI • PostgreSQL • Supabase • Redis • Docker • Linux • AWS (EC2-level) • n8n  
+**Tools:** Git/GitHub • Cursor • Claude • CI basics
 
-🔥 My project:
-Phoenix Paw — it all starts with a single feather:
 
-Telegram WebApp with Tonkeeper & Telegram login
+## Projects
+### 🔥 Phoenix Platform (private / ongoing)
+Multi-service backend platform (38 services, mostly Python).  
+I work on architecture, APIs, data flows, infrastructure, and automation.
 
-Phoenix-style NFT gods
+### ⭐ village-era-game
+FastAPI-based game backend prototype, API + persistence.
 
-"Tree of Three" game, Last Buyer, Lucky Eggs
+###Phoenix-Unit
 
-Admin panel, good deeds map, clans, subscriptions, and more
-
-Architecture: microservices + Kafka + Supabase/PostgreSQL
-
-Deployed on AWS and Railway
-
-🎨 Interests:
-— Creating visual concepts, merch, UI/UX
-— Automating processes (AI + n8n + Telegram)
-— Voice agents, CLI trainers, custom learning systems
-
-🛠 Open to collaboration:
-If you value strong ecosystems and love blending tech with creativity — contact me on Telegram: @PhoenixPawcreator
-
+## How to reach me
+- LinkedIn: add link here
+- Email: add email here
